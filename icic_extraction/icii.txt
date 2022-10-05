@@ -1,0 +1,185 @@
+
+CONTRACT NOTE
+ICICI Securities Limited
+Name of Clearing Corporation: NSE Clearing Limited.
+(Cash Market Segment)
+Contract Note No.     :ISEC/2021244/22321763
+SEBI REGN. NO.: INZ000183631;
+TRADE DATE   : 27-12-2021 Clearing no.07730
+SETTLEMENT NO.   : 2021244 Regd. Off: ICICI Venture House, Appasaheb Marathe Marg,
+SETTLEMENT DATE : 29-12-2021 Prabhadevi, Mumbai - 400 025
+Tel No: 022-6807 7100 Fax No: 022-6807 7803
+To, Dealing office Add : Shree Sawan Knowledge Park,
+Gr. Floor, Plot No. D-507, TTC Industrial Area, MIDC, Turbhe,
+SRIPAL   SETHIA
+Navi Mumbai - 400 705, Maharastra India
+Tel :91-22-4070 1000
+2701 MURJAN 5 27 JUMEIRAH BEACH
+Fax :91-22-4070 1022
+DUBAI - 999999
+Principal place of business:
+DUBAI
+Icici Securities Limited,, 163 Backbay Reclamation, H. T. Parikh Marg, Churchgate,
+State Code: 27
+Mumbai - 400020, Maharashtra
+UAE
+Mob No: 96791751
+GST Identification No. of Client:
+Compliance Officer : Mr. Anoop Goyal, Tel No : 022 - 40701000
+Email :-complianceofficer@icicisecurities.com
+Email ID for Investor complaint :  coo@icicidirect.com
+Website : www.icicidirect.com
+Corporate Identification Number (CIN) : L67120MH1995PLC086241
+Trading Back Office Code : 6500015248
+UCC of Client : 6500015248
+PAN of Client : AAKPS4496E
+Sir/Madam,
+I/We have this day done by your order and on your account the following transactions:
+Summary including statutory levies - Exchange Total Goods Security Net Payable / Receivable
+Total SEBI Turnover
+Quantity Value Transaction and Stamp Duty Transaction Tax
+RBL BANK LIMITED Brokerage Charges Charges Service Tax (STT) (`)
+Buy  350 50109.95 626.3744 0.8518 0.0501 112.9098 8.0000 49.9995 50908.1356
+Sell  0 0.00 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+Total Payable / Receivable  350  50109.95  626.3744 0.8518 0.0501 112.9098 8.0000 49.9995 50908.1356
+ Order No.  Order Trade No. Trade ISIN No. Security Buy(B) / Bought Sold  Qty Gross Rate / Brokerage Net Rate per Net Total Remarks Exchange
+Time Time Sell(S) Qty Trade Price per Unit Unit (Before Levies)
+per Unit
+(`) (`) (`) (`)
+27-12-
+1300000017081789 2021 79015236 14:37 INE976G01028 RBL BANK LIMITED Buy 200 143.15 1.7894 144.9394 28987.8800 NSE
+14:37:00
+27-12-
+1300000017112386 2021 79022609 14:38 INE976G01028 RBL BANK LIMITED Buy 1 143.15 1.7894 144.9394 144.9394 NSE
+14:38:00
+27-12-
+1300000017112386 2021 79022610 14:38 INE976G01028 RBL BANK LIMITED Buy 36 143.20 1.7900 144.9900 5219.6400 NSE
+14:38:00
+27-12-
+1300000017112386 2021 79022611 14:38 INE976G01028 RBL BANK LIMITED Buy 113 143.20 1.7900 144.9900 16383.8700 NSE
+14:38:00
+Details of trade-wise levies shall be provided on request.
+Transactions mentioned in this contract note cum bill shall be governed and subject to the Pay in Obligation ` 50109.9500
+Rules, Bye-laws, Regulations and Circulars of the respective Exchanges on which trades have
+been executed and Securities and Exchange Board of India issued from time to time. It shall Taxable value of supply:^
+also be subject to the relevant Acts, Rules, Regulations, Directives, Notifications, Guidelines a) Total brokerage ` 626.3744
+(including GST Laws) & Circulars issued by SEBI / Government of India / State Governments
+and Union Territory Governments issued from time to time. The Exchanges provide Complaint b) Exchange Transaction Charges ` 0.8518
+Resolution, Arbitration and Appellate arbitration facilities at the Regional Arbitration Centres
+c) SEBI Turnover Fees `` 0.0501
+(RAC). The client may approach its nearest centre, details of which are available on respective
+Exchange’s website. Please visit www.nseindia.com for NSE. Total Taxable value of supply (a+b+c) 627.2763
+Brokerage Charges
+(a)xGST (b+c)xGST
+CGST*   Rate(9.0000%) 56.3737 0.0812 ` 56.4549
+SGST/UTGST*  Rate (9.0000%) 56.3737 0.0812 ` 56.4549
+IGST*   Rate(0.0000%) 0.0000 0.0000 ` 0.0000
+e) Securities Transaction Tax** ` 50.0000
+f) Stamp Duty** ` 8.0000
+Net amount payable by Client ` 50908.1361
+Net Amount to be Debited from Bank ` 50908.14
+# indicates the position is squared off by I-Sec Risk Management System (RMS) due to margin
+shortfall.
+* CGST - Central GST; SGST - State GST; IGST : Integrated GST; UTGST : Union Territory Tax
+^ Taxable value of supply is calculated in accordance with the provisions of the applicable GST
+Laws issued from time to time
+**ICICI Securities Limited is collecting the Stamp duty and Securities Transaction tax as a pure
+agent of the investor and hence the same is not considered in taxable value of supply for
+charging GST.
+Date : 27/12/2021 Yours  faithfully,
+Place  : Mumbai For ICICI Securities Limited.
+Authorized Signatories:
+Mr.Prasannan Keshavan, Mr.Pankaj Shah, Mr.Paulraj Muralidharan, Mr.Nilesh Naik,
+Ms.Deepali Thakkar, Mr.Ramakrishna Oruganti, Mr. Santosh Naphade
+Authorized Signatory,
+Member of National Stock Exchange of India Ltd.
+PAN NO.:    AAACI0996E
+GSTIN NO : 27AAACI0996E1ZL
+Page 1 of 2
+Description of service : Brokerage and related securities and
+commodities services including commodity exchange
+services
+Accounting code of services : 997152
+Annexure to Contract Note
+Compliance with Fit and Proper requirement, applicable in case of trading in securities of listed Stock Exchanges
+19.Eligibility for acquiring or holding shares.
+19.  (1) No person shall, directly or indirectly, acquire or hold equity shares of a recognized stock exchange or recognized clearing corporation unless he is a fit and proper
+person.
+    (2) Any person who, directly or indirectly, either individually or together with persons acting in concert, acquire equity shares such that his shareholding exceeds two per cent
+of the paid up equity share capital of a recognised stock exchange or recognised clearing corporation shall seek approval of the Board within fifteen days of the acquisition.
+    (3) A person eligible to acquire or hold more than five per cent of the paid up equity share capital under sub-regulation (2) of regulation 17 and sub-regulation (2) of regulation
+18 may    acquire or holdmore than five per cent of the paid up equity share capital of a recognised stock exchange or a recognised clearing corporation only if he has obtained
+prior approval of the Board.
+   (4) Any person holding more than two per cent of the paid up equity share capital of the recognised stock exchange or the clearing corporation on the date of commencement
+of these regulations, shall ensure compliance with this regulation within a period of ninety days from the date of such commencement.
+   (5) If approval under sub-regulation (2) or (4) is not granted by the Board to any person, such person shall forthwith divest his excess shareholding.
+   (6) Any person holding more than two per cent of the paid up equity share capital in a recognised stock exchange or a recognised clearing corporation, as the case may be,
+shall file a declaration within fifteen days from the end of every financial year to the recognised stock exchange or recognised clearing corporation, as the case may be,
+  that he complies with the fit and proper criteria provided in these regulations.        
+20.Fit and proper criteria.
+20. (1) For the purposes of these regulations, a person shall be deemed to be a fit and proper person if—
+(a) such person has a general reputation and record of fairness and integrity, including but not limited to—
+     (i) financial integrity;
+     (ii) good reputation and character; and
+     (iii) honesty;
+(b) such person has not incurred any of the following disqualifications—
+  (i) the person, or any of its whole time directors or managing partners, has been convicted by a court for any offence involving moral turpitude or any economic offence or any
+offence against the securities laws;
+  (ii) an order for winding up has been passed against the person;
+  (iii) the person, or any of its whole time directors or managing partners, has been declared insolvent and has not been discharged;
+  (iv) an order, restraining, prohibiting or debarring the person, or any of its whole time directors or managing partners, from dealing in securities or from accessing the securities
+market, has been passed by the Board or any other regulatory authority, and a period of three years from the date of the expiry of the period specified in the order has not
+elapsed;
+  (v) any other order against the person, or any of its whole time directors or managing partners, which has a bearing on the securities market, has been passed by the Board or
+any other regulatory authority, and a period of three years from the date of the order has not elapsed;
+  (vi) the person has been found to be of unsound mind by a court of competent jurisdiction and the finding is in force; and
+  (vii)the person is financially not sound.
+(2) If any question arises as to whether a person is a fit and proper person, the Board‘s decision on such question shall be final.
+Eligibility for acquiring or holding shares in a depository
+6B.  (1)  No  person  shall,  directly  or  indirectly,  acquire  or  hold  equity  shares  or  voting    rights  of  a  depository unless he is a fit and proper person.
+(2) Any person who, directly or indirectly, either individually or together with persons acting in concert, acquires equity shares such that his shareholding exceeds two percent. of
+the paid up equity share capital of a depository, shall seek approval of the Board  within fifteen days of the acquisition.
+(3) Any person holding more than two per cent. Of the paid up equity share capital of the depository on the date of commencement of the Securities and Exchange Board of India
+(Depositories and Participants) (Amendment) Regulations, 2012, shall seek approval of the Board within a period of ninety days from the date of such commencement.
+(4) If approval under sub-regulation (2) or (3) is not granted by the Board to any person, such person shall forthwith divest his excess shareholding.
+(5) Any person holding more than two per cent. of the paid up equity share capital in a depository shall file  a  declaration  within  fifteen  days  from  the  end  of  every  financial
+year  to  the  depository  that  he  complies with the fit and proper criteria.
+(6) Save as otherwise provided in these regulations, the shareholding or voting rights of any person in a depository shall not exceed the limits specified in these regulations at any
+point of time.
+(7) For determining the shareholding of any person in a depository as specified in these regulations, any instrument held, owned or controlled, directly or indirectly, by him that
+entitles him the voting rights or provides  for  entitlement  to  voting  rights  or  equity  shares  or  any  other  rights  over  equity  shares  at  any  future date, shall also be
+included.
+Criteria for determining a 'fit and proper person'
+For the purpose of determining as to whether an applicant or the intermediary is a fit and proper person 'the Board may take account of any consideration as it deems fit,
+including but not limited to the following criteria in relation to the applicant or the intermediary, the principal officer [ , the director, the promoter] and the key management
+persons by whatever name called –
+(a) Integrity, reputation and character;
+(b) Absence of convictions and restraint orders;
+(c) Competence including financial solvency and networth
+(d) Absence of categorization as a wilful defaulter.
+Rights Entitlement
+In case Rights Entitlements (REs) has been purchased, please note that the purchase of REs only gives right to participate in the ongoing Rights Issue of the concerned company
+by making an application with requisite application money or renounce the REs before the issue closes. REs which are neither subscribed by making an application with requisite
+application money nor renounced, on or before the Issue closing date shall lapse and shall be extinguished after the Issue closing date.
+Annexure
+Statement of Securities Transaction Tax
+Stock Exchange National Stock Exchange of India Ltd
+Stock Broker Name ICICI Securities Ltd.
+Stock Broker Code  07730(SEBI:INZ000183631)
+Trading Client Name SRIPAL   SETHIA
+Trading Client Code 6500015248
+Trading Client MAPIN NOT AVAILABLE
+Trading Client PAN AAKPS4496E
+Contract Note Date 27/12/2021
+Contract Note No. ISEC/2021244/22321763
+Transaction settled by delivery-Purchase Transaction settled by delivery-Sale Transaction settled other than by delivery
+Security TotalSTT(`)
+Qty     Price (`)    Value (`)     STT (`) Qty    Price (`)    Value (`)     STT(`) Qty     Price (`)    Value (`)     STT (`)
+RBLBANK 350 143.1700 50109.5000 50.0000 0 0.0000 0.0000 0.0000 0 0.0000 0.0000 0.0000 50.0000
+TOTAL(`) 50.00
+Securities Transaction Tax (round to the nearest rupee)(`) 50.00
+For ICICI Securities Limited.
+Place :   Mumbai
+Date : 27-12-2021
+Authorised Signatory
+This is a digitally signed contract and hence no physical signature is required Page 2 of 2
